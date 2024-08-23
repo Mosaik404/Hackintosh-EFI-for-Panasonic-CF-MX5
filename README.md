@@ -1,4 +1,4 @@
-![截屏2024-08-23 14.26.18.png](C:\Users\gyc05\Desktop\截屏2024-08-23%2014.26.18.png)
+![截屏2024-08-23 14.26.18.png](.\截屏2024-08-23%2014.26.18.png)
 
 # Hackintosh-EFI-for-Panasonic-CF-MX5
 
@@ -7,6 +7,7 @@
 使用Rapid EFI配制而成。
 
 **目前仅测试支持 MacOS 12 Monterey。**
+**请前去Release下载文件**
 
 ## 硬件配置
 
