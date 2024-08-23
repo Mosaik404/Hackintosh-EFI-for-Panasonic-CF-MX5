@@ -1,4 +1,4 @@
-![截屏2024-08-23 14.26.18.png](.\截屏2024-08-23%2014.26.18.png)
+![截屏2024-08-23 14.26.18.png](https://github.com/Mosaik404/Hackintosh-EFI-for-Panasonic-CF-MX5/blob/main/%E6%88%AA%E5%B1%8F2024-08-23%2014.26.18.png)
 
 # Hackintosh-EFI-for-Panasonic-CF-MX5
 
